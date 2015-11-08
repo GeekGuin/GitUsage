@@ -1,5 +1,5 @@
 # Summary
 
 * [Introduction](README.md)
-* Uploading Changes
+* [Uploading Changes](UploadingFiles/README.md)
 
