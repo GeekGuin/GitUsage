@@ -1,1 +1,2 @@
 # GitUsage
+Basic git usage
