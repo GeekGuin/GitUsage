@@ -1,3 +1,3 @@
 # git add
 
-This command adds the changes to the 
+This command adds the changes made to local files to the repository
