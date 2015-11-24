@@ -9,4 +9,5 @@
 * [git commit](git_commit/git_commit.md)
 * [git log](git_log/git_log.md)
 * [git checkout](git_checkout/git_checkout.md)
+* git reset
 
