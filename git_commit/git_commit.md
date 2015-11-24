@@ -2,4 +2,4 @@
 
 `git commit -m "commit changes message"`
 
-Saves the files from the staging area on the repository.
+Saves the files from the staging area to the repository.
