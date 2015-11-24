@@ -7,4 +7,4 @@ We have 3 important things here:
 - Staging Area: this is the .git folder on your pc that tracks all the changes you
   make to the files on your project.
 - Repository: This is where the files get stored once you do `git commit`, you can
-  hace many branches.
+  have many branches.
