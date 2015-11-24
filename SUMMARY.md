@@ -7,4 +7,5 @@
 * [git add](git_add/README.md)
 * [git diff](git_diff/git_diff.md)
 * [git commit](git_commit/git_commit.md)
+* git log
 
