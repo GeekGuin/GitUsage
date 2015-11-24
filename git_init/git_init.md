@@ -1,3 +1,3 @@
 # git init
 
-This command
+This command creates a new git repository by adding the `.git` folder!
