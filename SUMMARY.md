@@ -8,5 +8,5 @@
 * [git diff](git_diff/git_diff.md)
 * [git commit](git_commit/git_commit.md)
 * [git log](git_log/git_log.md)
-* test
+* [test](test.md)
 
