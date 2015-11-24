@@ -6,5 +6,5 @@
 * [git status](git_status/git_status.md)
 * [git add](git_add/README.md)
 * [git diff](git_diff/git_diff.md)
-* git commit
+* [git commit](git_commit/git_commit.md)
 
