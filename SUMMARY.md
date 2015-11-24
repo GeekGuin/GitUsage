@@ -4,5 +4,5 @@
 * [Uploading Changes](UploadingFiles/README.md)
 * [git add](git_add/README.md)
 * [git init](git_init/git_init.md)
-* git status
+* [git status](ggit_status.md)
 
