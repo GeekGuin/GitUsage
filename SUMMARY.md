@@ -12,5 +12,5 @@
 * [git branch](git_branch/README.md)
 * [git reset](git_reset/git_reset.md)
 * [git merge](git_merge/README.md)
-* git clone
+* [git clone](git_clone/README.md)
 
