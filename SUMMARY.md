@@ -11,4 +11,5 @@
 * [git checkout](git_checkout/git_checkout.md)
 * [git branch](git_branch/README.md)
 * [git reset](git_reset/git_reset.md)
+* git merge
 
