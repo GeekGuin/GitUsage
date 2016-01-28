@@ -10,4 +10,5 @@
 * [git log](git_log/git_log.md)
 * [git checkout](git_checkout/git_checkout.md)
 * [git reset](git_reset/git_reset.md)
+* git branch
 
