@@ -1,6 +1,6 @@
 # git branch
 
-- `git branch`: Lists all Git project branches.
+- `git branch`: Lists all  branches.
 
 - `git branch new_branch`: This creates a new branch named `new_branch`.
 
