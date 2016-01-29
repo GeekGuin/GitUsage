@@ -14,4 +14,5 @@
 * [git merge](git_merge/README.md)
 * [git clone](git_clone/README.md)
 * [git remote](git_remote/README.md)
+* git fetch
 
