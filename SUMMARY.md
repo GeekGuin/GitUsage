@@ -15,5 +15,5 @@
 * [git clone](git_clone/README.md)
 * [git remote](git_remote/README.md)
 * [git fetch](git_fetch/README.md)
-* git push
+* [git push](git_push/README.md)
 
