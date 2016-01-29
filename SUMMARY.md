@@ -13,4 +13,5 @@
 * [git reset](git_reset/git_reset.md)
 * [git merge](git_merge/README.md)
 * [git clone](git_clone/README.md)
+* git remote
 
